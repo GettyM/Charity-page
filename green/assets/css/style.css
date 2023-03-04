@@ -1,4 +1,4 @@
-﻿/*=============================================================
+/*=============================================================
     Authour URI: www.binarytheme.com
     License: Commons Attribution 3.0
 
@@ -145,32 +145,19 @@ h2:after {
 }
 
     #main-head input:focus {
-        border: 1px solid 0px;
+        border: 1px solid #FF4F4F;
     }
 
     #main-head .form-control {
         height: 40px;
-        color: #000;
-        background-color: #F7F7F7;
-        border: 1px solid 0px;
+        color: #ff6a00;
+        background-color: rgba(255, 255, 255, 0);
+        border: 1px solid #FF4F4F;
         -webkit-border-radius: 0px;
         -moz-border-radius: 0px;
         -webkit-border-radius: 0px;
         -moz-border-radius: 0px;
-        border-radius: 8px;
-    }
-    #main-head .form-style{
-        height: 100px;
-        color: #000;
-        background-color:#F7F7F7;
-        border: 1px solid 0px;
-
-        /*-webkit-border-radius: 0px;
-        -moz-border-radius: 0px;
-        -webkit-border-radius: 0px;
-        -moz-border-radius: 0px;*/
-       
-
+        border-radius: 0px;
     }
 
     #main-head span {
